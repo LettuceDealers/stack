@@ -1,5 +1,5 @@
 # Stack
-<h4 align="center">A modular discord bot written in lua!</h4>
+<h4 align="center">A kinda modular discord bot written in lua!</h4>
 
 # Overview
 
