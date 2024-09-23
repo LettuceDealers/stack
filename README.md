@@ -2,7 +2,7 @@
 <h4 align="center">A kinda modular discord bot written in lua!</h4>
 
 # Overview
-
+My plan for this bot is to make it similar to [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot), with an ecosystem of custom commands, and to ultimatley replace your traditional bots (MEE6, CarlBot, etc.)
 placeholder
  
 # Requirements
